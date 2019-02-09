@@ -1,0 +1,1 @@
+uglifyjs --mangle --toplevel  --output=out1.js --source-map  -- barilla.js muellers.js

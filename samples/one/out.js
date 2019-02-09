@@ -1,0 +1,1 @@
+function n(){o()}function o(){r()}function r(){throw Error()}n();

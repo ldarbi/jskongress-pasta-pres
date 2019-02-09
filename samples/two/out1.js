@@ -1,0 +1,1 @@
+function n(){function n(){}n()}function c(){}c();
